@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+catboost
+optuna
+dtale
+pandas-profiling
+jupyter
+jupyterlab
